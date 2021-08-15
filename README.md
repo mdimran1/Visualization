@@ -1,2 +1,2 @@
-- Hi, I’m Md Imran @mdimran1
+- Hi, I’m Md Imran
 - I’m interested in Data Professional with new technologies
