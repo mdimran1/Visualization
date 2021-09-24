@@ -1,6 +1,6 @@
 - Here some method for data visualization for :
 - Matplolib
--Pandas
--Seaborn
--Potly
--Folium
+- Pandas
+- Seaborn
+- Potly
+- Folium
