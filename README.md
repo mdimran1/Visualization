@@ -2,5 +2,5 @@
 - Matplolib
 - Pandas
 - Seaborn
-- Potly
+- Plotly
 - Folium
