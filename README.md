@@ -1,4 +1,4 @@
-- Here some method for data visualization for :
+Beginner's modules for data visualization :
 - Matplolib
 - Pandas
 - Seaborn
